@@ -2,12 +2,6 @@ body {
   margin: 0;
 }
 
-/* 
-#777 - text
-#FFFFFF
-#000
-#bfba55
-*/
 .nav-bar {
   display: flex;
   justify-content: space-between;
